@@ -6,3 +6,5 @@ Many times users get the problem of selecting the profile name as it is generall
 It can be used by various other projects where the developers want to simply capture the email, username and the domain of email.
 
 The code of the project is fairly simple and can be used/intgrated in other projects as well.
+
+Also, the code/project can also be used to check if generated username is available in case if someone else has it.
